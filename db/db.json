@@ -1,52 +1,45 @@
 {
-  "toys": [
+  "puns": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "GEOMETRY JOKES",
+      "description": "What did the triangle say to the circle? “You are pointless"      
     },
+
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "MULTIPLICATION AND DIVISION JOKES",
+      "description": "Why did the student do multiplication problems on the floor? The teacher told him not to use tables."
     },
+
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "CCOUNTING JOKES",
+      "description": "A talking sheepdog rounds up all the sheep into the pen for his farmer. He comes back and says, “Okay, Chief — all 40 sheep accounted for”. The farmer says, “But I have counted them and I have only got 36!” The sheepdog replies, “I know, but I rounded them up.”"
     },
+
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "FRACTIONS JOKES",
+      "description": "There is a fine line between a numerator and a denominator… But only a fraction would understand."
     },
+
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
+      "name": "STATISTICS JOKES",
+      "description": "A statistician got soaking wet trying to cross a river. He thought he could cross, because it was one-foot deep on average."
+    },  
+
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "ALGEBRA JOKES",
+      "description": "Why did the boy refuse to drink the water with eight ice cubes in it? Because it is too cubed!"
     },
+    
     {
       "id": 7,
-      "name": "Hamm!!!!",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "PI JOKES",
+      "description": "Who was the roundest knight at King Arthur table? Sir Cumference. How did he get so round? He ate too many 'π’s'."
     }
   ]
 }
